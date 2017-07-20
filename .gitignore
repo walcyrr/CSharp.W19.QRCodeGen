@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.suo
+W19.QRCodeGen/bin/Debug/W19.QRCodeGen.vshost.exe
+W19.QRCodeGen/W19.QRCodeGen.csproj.user
+W19.QRCodeGen/bin/Debug/W19.QRCodeGen.vshost.exe.config
+W19.QRCodeGen/bin/Debug/W19.QRCodeGen.vshost.exe.manifest
